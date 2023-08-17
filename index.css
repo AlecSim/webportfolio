@@ -1,0 +1,12 @@
+body {
+    font-family: 'Kanit', sans-serif;
+}
+
+.custom-image {
+    width: 300px;
+    height: 200px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
